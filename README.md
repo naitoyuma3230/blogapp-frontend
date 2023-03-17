@@ -3,7 +3,7 @@
 以下のサイトを参考にしています
 https://zenn.dev/waddy/books/graphql-nestjs-nextjs-bootcamp/viewer/about_graphql
 
-## 利用技術
+# 利用技術
 
 ## フロントエンド
 
